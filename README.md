@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CivitCihan
-- ⚡ C/C++/Pyhton/HTML/CSS/Java Script
-- 👀 I’m interested in Artificial Intelligent
-- 🌱 I’m currently learning AI and Data Science
+- ⚡ Pyhton/C/C++/HTML/CSS/Java Script
+- 🌱 I’m Data Scientist and AI/ML Engineer
 - 📫 How to reach me cihan.civit.work@gmail.com
 
 
